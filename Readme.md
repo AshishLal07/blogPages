@@ -8,6 +8,6 @@
  # HomePage
     Includes Every post , Navbar have the category to filter out your prefernce
 
-![HomePage](blogApp/public/homePage = 200*400);
+![HomePage](blogApp/public/homePage);
     
     
