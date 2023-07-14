@@ -12,11 +12,11 @@
 ### Post Page
     single post details, user, createdAt and only show edit and delete option, if created by User
 
-   ![PostPage](blogApp/public/postPage.png)
+   ![PostPage](blogApp/public/PostPage.png)
 
   #### Update page if its user
 
-  ![UpdatePage](blogApp/public/updatePage.png)
+  ![UpdatePage](blogApp/public/updatePost.png)
 
 
 ### Create Post Page
