@@ -8,6 +8,6 @@
  # HomePage
     Includes Every post , Navbar have the category to filter out your prefernce
 
-![HomePage](blogApp/public/homePage.png);
+[![HomePage](blogApp/public/homePage.png = 400x200)]
     
     
