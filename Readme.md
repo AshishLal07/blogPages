@@ -8,7 +8,7 @@
  # HomePage
     Includes Every post , Navbar have the category to filter out your prefernce
 
-<img src="blogApp/public/homePage.png" width="600px" height="600px">
+<img src="blogApp/public/homePage.png" width="100vw" height="600px">
 
     
     
