@@ -5,10 +5,30 @@
 
 ## Working of this BlogPage
 
- # HomePage
+### HomePage
     Includes Every post , Navbar have the category to filter out your prefernce
+   ![BlogPage](blogApp/public/homePage.png)
 
-<img src="blogApp/public/homePage.png" width="100%" height="600px">
+### Post Page
+    single post details, user, createdAt and only show edit and delete option, if created by User
+
+   ![PostPage](blogApp/public/postPage.png)
+
+  #### Update page if its user
+
+  ![UpdatePage](blogApp/public/updatePage.png)
+
+
+### Create Post Page
+    It's consist field of title, description, category, postImg
+  ![CreatePost](blogApp/public/createPost.png) 
+  
+ 
+  
+
+   
+   
+
 
     
     
