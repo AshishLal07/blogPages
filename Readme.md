@@ -22,7 +22,15 @@
 ### Create Post Page
     It's consist field of title, description, category, postImg
   ![CreatePost](blogApp/public/createPost.png) 
+
+
+### Login Page
+![LoginPage](blogApp/public/Login.png)
+
+
+### Registeration Page
   
+  ![RegisterPage](blogApp/public/Registeration.png)
  
   
 
